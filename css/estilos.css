@@ -1,0 +1,65 @@
+/*html{
+	scroll-behavior: smooth;
+}*/
+
+/*#features::before, #about::before, #team::before, #contact::before{
+	height: 60px;
+    content: "";
+    display:block;
+}*/
+.text-fazt{
+	color: white !important;
+}
+
+.text-fazt-2{
+	color:#B50E21FF !important;
+	font-weight: bold;;
+}
+
+.text-fazt-3{
+	color:#343A40FF !important;
+}
+
+.fazt-text{
+	color:#B50E21FF !important;
+}
+
+.btn-fazt{
+	background-color:#B50E21FF !important;
+	color: white !important
+}
+
+.fazt-border{
+	border:1px solid #B50E21FF !important;
+	border-radius: 0;
+}
+
+.fazt-bg{
+	background-color:#B50E21FF !important;
+	color: white !important
+}
+
+#navigation img{
+	width: 50px;
+}
+
+.navbar{
+	box-shadow: 2px 2px 2px #000;
+}
+
+/*.navbar .container .collapse ul li a:hover{
+	color:#ccc !important;
+}*/
+
+#main-header{
+	background: url(../images/background.jpg);
+	background-size: cover;
+}
+
+.background-overlay{
+	background: rgba(48,51,107,0.7);	
+}
+
+.form-control, .btn{
+	border-radius: 0;
+}
