@@ -6,3 +6,10 @@
       scrollTop: $(divId).offset().top - 60
     }, 100);
   });
+
+
+  function saludo(){
+
+    alert('Hola mundo');
+
+  }
